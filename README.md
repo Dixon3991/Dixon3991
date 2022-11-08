@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center"><img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dixon3991&langs_count=6&layout=compact&theme=bear&hide_border=true"/></p>
+<p align="center"><img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dixon3991&langs_count=6&layout=compact&theme=bear&hide_border=true&hide=scss"/></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dixon3991&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&theme=bear" alt="Repo Stats Card"/>
 </p>
